@@ -4,7 +4,6 @@ header .nav-wrapper {
   width: 100%;
   z-index: 2;
   position: fixed;
-  font-colour:white;
 }
 
 header nav {
@@ -20,6 +19,7 @@ header nav {
   height: var(--nav-height);
   padding: 0 1rem;
   font-family: var(--body-font-family);
+  font-colour:white;
 }
 
 header nav[aria-expanded="true"] {
