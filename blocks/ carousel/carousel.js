@@ -48,4 +48,3 @@ export default function decorate(block) {
   // Add event listener and navigation functionality for previous slide
   // (You can complete this part based on your requirements)
 }
-//
