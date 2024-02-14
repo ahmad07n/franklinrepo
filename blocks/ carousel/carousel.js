@@ -42,9 +42,5 @@ export default function decorate(block) {
     });
   });
 
-  // Select previous slide button
-  //const prevSlide = document.querySelector('.btn-prev');
-
-  // Add event listener and navigation functionality for previous slide
-  // (You can complete this part based on your requirements)
+ 
 }
