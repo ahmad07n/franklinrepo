@@ -92,7 +92,7 @@ header nav .nav-hamburger-icon::before,
 header nav .nav-hamburger-icon::after {
   content: '';
   position: absolute;
-  background: currentcolor;
+  background: white;
 }
 
 header nav[aria-expanded="false"] .nav-hamburger-icon,
