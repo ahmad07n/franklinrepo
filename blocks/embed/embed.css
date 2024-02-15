@@ -1,0 +1,24 @@
+main .embed ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+main .embed li {
+  list-style: none;
+  width: 360px;
+  height: 202px;
+  margin-bottom: 20px;
+}
+
+main .embed-container h1 {
+    text-align: center;
+}
+
+main .embed-wrapper {
+  margin: auto;
+}
+
+.section h2 {
+  text-align: center;
+}
